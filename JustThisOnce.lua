@@ -1,4 +1,4 @@
-print(" ")
+print("Due to financial struggles, i had to give the script a key system. i'm very sorry.")
 
 
 
