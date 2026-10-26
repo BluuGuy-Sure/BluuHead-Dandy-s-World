@@ -13,7 +13,7 @@ if lp.UserId == Target then
 else
   StarterGui:SetCore("SendNotification", {
       Title = "Bluu",
-      Text = "Script is Unavailable."
+      Text = "Script is Unavailable.",
       Duration = 10,
     })
 end
