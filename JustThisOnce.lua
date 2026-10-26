@@ -4,6 +4,8 @@ local StarterGui = game:GetService("StarterGui")
 local lp = Players.LocalPlayer
 local Target = 6131807720
 
+task.wait(1.5)
+
 if lp.UserId == Target then
 	StarterGui:SetCore("SendNotification", {
 		Title = "Bluu",
